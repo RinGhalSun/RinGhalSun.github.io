@@ -12,11 +12,17 @@ Master by Research in Swansea University
 
 Supervisor
 ======
-Lin Yuanbo Wu
+Lin Yuanbo Wu (l.y.wu@swansea.ac.uk)
 
-Senior Lecturer of Swansea Univeristy
+Senior Lecturer
+
+School of Computer Science and Mathematics
+
+Faculty of Science and Engineering
+
+Swansea Univeristy
 
 Project
 ======
-Design Antibody Using Vector Field Networks Based on Diffusion Model
+Using Vector Field Networks for Antibody Design Base on Diffusion Model
 
