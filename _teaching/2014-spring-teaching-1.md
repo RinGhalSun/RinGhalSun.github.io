@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Master by Taught"
 collection: teaching
-type: "Undergraduate course"
+type: "Computer Science"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Swansea University"
+date: 2020-09-30
+location: "Swansea, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Master by Taught in Swansea Univeristy
 
 Heading 1
 ======
