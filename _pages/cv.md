@@ -9,37 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+academic
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+  <ul>{% for post in site.academic reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2023: Research Group Team Member
+  * Zhejiang University
+  * Collaborating with AI+Protein research team in ZJU
+  * Conducting cutting-edge research in the field of protein analysis and deep learning.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Data Engineer
+  * Dongci Technology (Beijing) LTD
+  * Working as data engineer for data analysing and crawler based on Python.
+  * SKills: Python, big data, machine learning
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Mechanical Engineer
+  * Tangshan Pingyang Machine Manufacturing LTD
+  * Working as mechanical engineer mainly for manufacturing machine design and optimization.
+  * Skills: Solidworks, Solidworks and ANSYS.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill Python
+* Skill Machine Learning; Deep Learning
+  * Sub-skill Graph Neural Networks
+  * Sub-skill Transformer
+  * Sub-skill Diffusion
+* Skill Bio-Science
 
 Publications
 ======
@@ -53,11 +53,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-academic
-======
-  <ul>{% for post in site.academic reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
