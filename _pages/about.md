@@ -21,4 +21,4 @@ As a Teaching Assistant, I've guided students through the complexities of Comput
 
 Team Collaborator
 ======
-eing a part of the Zhejiang University AI + X team has allowed me to collaborate with like-minded professionals and students, pushing the envelope in the integration of AI with various disciplines to solve real-world problems.
+Being a part of the Zhejiang University AI + X team has allowed me to collaborate with like-minded professionals and students, pushing the envelope in the integration of AI with various disciplines to solve real-world problems.
