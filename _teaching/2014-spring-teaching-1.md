@@ -10,11 +10,10 @@ location: "Swansea, United Kingdom"
 
 Master by Taught in Swansea Univeristy
 
-Heading 1
+Language
 ======
+Python, Java, SQL, LATEX
 
-Heading 2
+Project
 ======
-
-Heading 3
-======
+Build a CNN Based Trustworthy Decision System for Plant Disease Detection.

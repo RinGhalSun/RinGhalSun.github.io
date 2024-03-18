@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "Master by Taught"
 collection: teaching
-type: "Workshop"
+type: "Computer Science"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Swansea University"
+date: 2023-09-30
+location: "Swansea, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Master by Research in Swansea University
 
-Heading 1
+Supervisor
 ======
+Lin Yuanbo Wu
 
-Heading 2
-======
+Senior Lecturer of Swansea Univeristy
 
-Heading 3
+Project
 ======
+Design Antibody Using Vector Field Networks Based on Diffusion Model
+
