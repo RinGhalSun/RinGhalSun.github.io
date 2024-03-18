@@ -17,7 +17,12 @@ academic
 
 Work experience
 ======
-* Spring 2023: Research Group Team Member
+* Spring 2024 ~ current: Teaching Assistant
+  * Swansea University
+  * Computer Vision and Deep Learning; Web application Development; Abuses, Biases and Blessings of Data
+  * Always willing to help!
+
+* Spring 2023 ~ current: Research Group Team Member
   * Zhejiang University
   * Collaborating with AI+Protein research team in ZJU
   * Conducting cutting-edge research in the field of protein analysis and deep learning.
