@@ -1,5 +1,5 @@
 ---
-title: "De novo protein design using geometric vector field networks,"
+title: "De novo protein design using geometric vector field networks"
 collection: publications
 permalink: /publication/2024-01-16-paper-title-number-1
 excerpt: 'Tired of using IPA? Try VFN!'
