@@ -1,8 +1,8 @@
 ---
-title: "Master by Taught"
-collection: teaching
+title: "Master by Research"
+collection: academic
 type: "Computer Science"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /academic/2015-spring-academic-1
 venue: "Swansea University"
 date: 2023-09-30
 location: "Swansea, United Kingdom"

@@ -1,8 +1,8 @@
 ---
 title: "Master by Taught"
-collection: teaching
+collection: academic
 type: "Computer Science"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /academic/2014-spring-academic-1
 venue: "Swansea University"
 date: 2020-09-30
 location: "Swansea, United Kingdom"
