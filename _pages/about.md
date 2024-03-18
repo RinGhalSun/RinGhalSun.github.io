@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Motivated Computer Science MSc graduate with distinction from Swansea University, specializing in AI ap- plications in bioinformatics. Proven expertise in machine learning, deep learning, and data engineering, with significant contributions to protein analysis research recognized at ICLR 2024. Proficient in Python and ad- vanced AI technologies. Seeking to apply my analytical skills and AI expertise in challenging environments, focusing on innovative solutions in AI application fields.
+Motivated Computer Science MSc graduate with distinction from Swansea University, specializing in AI applications in bioinformatics. Proven expertise in machine learning, deep learning, and data engineering, with significant contributions to protein analysis research recognized at ICLR 2024. Proficient in Python and advanced AI technologies. Seeking to apply my analytical skills and AI expertise in challenging environments, focusing on innovative solutions in AI application fields.
 
 
 Research
