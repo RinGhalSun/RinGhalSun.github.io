@@ -8,7 +8,7 @@ date: 2020-09-30
 location: "Swansea, United Kingdom"
 ---
 
-Master by Taught in Swansea Univeristy
+Master by Taught in Swansea Univeristy (Distinction)
 
 Language
 ======
