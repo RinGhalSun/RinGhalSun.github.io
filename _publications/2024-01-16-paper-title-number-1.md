@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-01-16-paper-title-number-1
 excerpt: 'Tired of using IPA? Try VFN!'
 date: 2024-01-16
-venue: 'ICLR 2024'
+venue: 'ICLR 2024 (Spotlight)'
 paperurl: 'https://arxiv.org/abs/2310.11802'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
